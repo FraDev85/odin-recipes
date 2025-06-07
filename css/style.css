@@ -28,6 +28,7 @@ p {
 
 ul {
   text-align: center;
+  margin-bottom: 50px;
 }
 
 li {
@@ -39,4 +40,8 @@ li {
 a {
   text-decoration: none;
   color: rgb(131, 85, 85);
+}
+
+li:hover {
+  background-color: antiquewhite;
 }
